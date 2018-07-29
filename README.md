@@ -1,3 +1,3 @@
 # testArticlespider
-test scarpy
-慕课网学习scarpy时做的练习
+test scrapy
+慕课网学习scrapy时做的练习
